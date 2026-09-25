@@ -1,0 +1,6 @@
+{
+  "name": "Orthosync Pro — Clinical Rehabilitation Monitor",
+  "description": "Offline-first post-operative wrist & hand rehabilitation monitoring system with live telemetry, baseline calibration, kinematic safety event detection, and longitudinal recovery trends.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
